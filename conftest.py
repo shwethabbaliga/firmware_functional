@@ -4,7 +4,6 @@ from pathlib import Path
 import os
 
 ROOT_FOLDER = Path(__file__).parent
-Path(__)
 NEW_FW = ROOT_FOLDER / new_firmware
 LOGS = ROOT_FOLDER / logs 
 
